@@ -13,13 +13,6 @@ import java.util.BitSet;
 import java.util.HashMap;
 import java.util.PriorityQueue;
 
-/**
- * Assignment 1
- * Submitted by: 
- * Avraam Yagudaev. 	ID# 209238542
- * Tamir Zehavi. 	ID# 308241298
- */
-
 public class HuffmanBetterEnDe extends HuffmanEncoderDecoder
 {
 	public static class HuffmanvertexStr implements Comparable<HuffmanvertexStr>, java.io.Serializable
