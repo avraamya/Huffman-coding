@@ -13,13 +13,6 @@ import java.util.BitSet;
 import java.util.HashMap;
 import java.util.PriorityQueue;
 
-/**
- * Assignment 1
- * Submitted by: 
- * Avraam Yagudaev. 	ID# 209238542
- * Tamir Zehavi. 	ID# 308241298
- */
-
 import base.Compressor;
 
 public class HuffmanEncoderDecoder implements Compressor {
